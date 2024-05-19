@@ -1,4 +1,5 @@
 # 量子チキンレースアプリ
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://qc4u2-chicken-game.streamlit.app/)
 
 <div align="center">
 <img src="static/images/chicken_race_niwatori.png" width=50%>
@@ -22,7 +23,12 @@
 <img src="static/images/chicken_race_kabe.png" width=50%>
 </div>
 
+## ライセンス
+
+MITライセンスの下で公開されています。詳細は[LICENSE](./LICENSE)を参照してください。
+
 ## 謝辞
 
 - [Quantum Computing for You: The Second Chance](https://prtimes.jp/main/html/rd/p/000000008.000077636.html)の取り組みの中で誕生したアプリです。
 - [いらすとや](https://www.irasutoya.com/)の画像を使用しています。
+- アプリのデプロイには[Streamlit Community Cloud](https://streamlit.io/cloud)を使用しています。
